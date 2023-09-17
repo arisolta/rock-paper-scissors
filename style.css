@@ -1,0 +1,10 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+#main, #result{
+    text-align: center;
+    width: 100%;
+    margin: 35px;
+}
